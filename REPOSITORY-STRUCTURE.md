@@ -40,17 +40,6 @@ spring-boot-sql-solver/
 └── REPOSITORY-STRUCTURE.md
 ```
 
-## ⚠️ Important: Include the target/ folder!
-
-Make sure to upload the `target/` folder containing your JAR file. 
-
-## Quick Upload Checklist:
-- [ ] Created public GitHub repository
-- [ ] Uploaded ALL files (including target/ folder)
-- [ ] Verified JAR file is at: `target/sql-solver-0.0.1-SNAPSHOT.jar`
-- [ ] Got your raw download link
-- [ ] Tested the download link
-
 ## Your Download Link Format:
 ```
 https://github.com/YOUR-USERNAME/YOUR-REPO-NAME/raw/main/target/sql-solver-0.0.1-SNAPSHOT.jar
